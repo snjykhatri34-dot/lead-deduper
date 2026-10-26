@@ -1,0 +1,17 @@
+id,name,email,phone,company,title,source
+1,Priya Shah,priya@sunsetinn.example,(512) 555-0142,Sunset Inn LLC,Owner,Trade show
+2,"Shah, Priya",priya.shah@gmail.com,+1 512-555-0142,Sunset Inn,,LinkedIn
+3,Marcus Bell,marcus.bell@harborviewhotels.example,,Harborview Hotels Inc.,Director of Operations,Website form
+4,Marcus Bel,,,Harborview Hotels,Director of Ops,Referral
+5,Elena Ruiz,elena@ruizhospitality.example,214-555-0187,Ruiz Hospitality Group,Founder & CEO,Website form
+6,Elena Ruiz,ELENA@RUIZHOSPITALITY.EXAMPLE,,Ruiz Hospitality,,Cold list
+7,Tom Nguyen,tom.nguyen+leads@gmail.com,,Lakeside Motor Lodge,Front Desk Manager,Cold list
+8,Thomas Nguyen,tomnguyen@gmail.com,7135550199,Lakeside Motor Lodge,,LinkedIn
+9,Aisha Khan,aisha@desertpalmsuites.example,602-555-0110,Desert Palm Suites,General Manager,Trade show
+10,Daniel Okafor,dokafor@okaforproperties.example,404-555-0133,Okafor Properties LLC,Managing Partner,Referral
+11,Sarah Lin,sarah.lin@bluepinelodge.example,,Blue Pine Lodge,Revenue Manager,Website form
+12,Raj Patel,raj@patelmotels.example,(615) 555-0177,Patel Motels Inc,President,Trade show
+13,Rajesh Patel,rajesh@patelmotels.example,615.555.0178,Patel Motels,Controller,LinkedIn
+14,Grace Kim,grace.kim@yahoo.com,,,,Cold list
+15,Owen Brooks,owen@coastalstays.example,843-555-0121,The Coastal Stays Co.,Owner,Referral
+16,Owen Brooks,,1 (843) 555-0121,Coastal Stays,,Website form
